@@ -13,21 +13,31 @@ Sacha Github
   - Pandas
   - Django
   - Tkinter
+---
+</details>
 
-  **Compétences**:
+<details>
+  <summary>:mortar_board: <b>Comptétences :</b></summary><br>
+  
   - **Algorithmique et Programmation** : C, C++, CSS, HTML, LaTeX, Markdown, PHP, Python, SQL
   - **Bureautique** : LibreOffice, Microsoft Office
   - **Gestion de projet et de version** : Git, GitHub, GitLab
   - **Outils de collaboration** : Codimd, Github, Overleaf
+  ---
+</details>
 
-
-  **Projets**:
-  - Premier site web, en django, pour le cours d’INF2, vous pouvez le retrouver [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP6). Il correspond au TP6 du cours.
-  - Second site web, en HTML, CSS et PHP, pour le cours de NF92, vous pouvez le retrouver [ici](https://github.com/sacha-sz/UTC-NF92/).
-  - Une calculatrice assez avancée, en python, pour le cours d’INF2, vous pouvez la retrouver [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP5) il correspond au TP5 du cours. 
+<details>
+   <summary>:notebook_with_decorative_cover: <b>Projets :</b></summary><br>
+  
+  1. Premier site web, en django, pour le cours d’INF2, vous pouvez le retrouver [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP6). Il correspond au TP6 du cours.
+  2. Second site web, en HTML, CSS et PHP, pour le cours de NF92, vous pouvez le retrouver [ici](https://github.com/sacha-sz/UTC-NF92/).
+  3 Une calculatrice assez avancée, en python, pour le cours d’INF2, vous pouvez la retrouver [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP5) il correspond au TP5 du cours. 
   J’ai choisi d’ajouter des fonctionnalités supplémentaires et des gestions d’erreurs pour rendre le projet plus réaliste.
   Des images de la calculatrice sont disponibles [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP5/Images).
+  
+  ---
 </details>
+
 
 <details>
   <summary>:hammer_and_wrench: <b>Languages et outils :</b></summary><br>
@@ -65,6 +75,8 @@ Sacha Github
 </div>
   </li>
   </ul>
+  
+  ---
 </details>
 
 <details>
@@ -76,6 +88,8 @@ Sacha Github
   ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=450&hide=javascript,jupyter%20notebook)
   
 </div>
+
+---
 </details>
 
 ![GIF snake](https://github.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake.svg)
