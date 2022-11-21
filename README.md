@@ -31,7 +31,7 @@
   
   1. Premier site web, en django, pour le cours d’INF2, vous pouvez le retrouver [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP6). Il correspond au TP6 du cours.
   2. Second site web, en HTML, CSS et PHP, pour le cours de NF92, vous pouvez le retrouver [ici](https://github.com/sacha-sz/UTC-NF92/).
-  3 Une calculatrice assez avancée, en python, pour le cours d’INF2, vous pouvez la retrouver [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP5) il correspond au TP5 du cours. 
+  3. Une calculatrice assez avancée, en python, pour le cours d’INF2, vous pouvez la retrouver [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP5) il correspond au TP5 du cours. 
   J’ai choisi d’ajouter des fonctionnalités supplémentaires et des gestions d’erreurs pour rendre le projet plus réaliste.
   Des images de la calculatrice sont disponibles [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP5/Images).
   
