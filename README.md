@@ -1,4 +1,4 @@
-Sacha Github
+<img src="https://github.com/sacha-sz/sacha-sz/blob/main/name.svg" title="Name" alt="sacha-sz"/>&nbsp;
 ---
 <details>
   <summary>:technologist: <b>A propos de moi :</b></summary><br>
