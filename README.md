@@ -38,7 +38,7 @@
   ---
 </details>
 
-
+ 
 <details>
   <summary>:hammer_and_wrench: <b>Languages et outils :</b></summary><br>
   Voici la liste des différents langages et outils que j’ai pu utiliser dans mes projets :<br><br>
