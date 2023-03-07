@@ -17,7 +17,7 @@
 </details>
  
 <details>
-  <summary>:hammer_and_wrench: <b>Languages et outils :</b></summary><br>
+  <summary>:hammer_and_wrench: <b>Langages et outils :</b></summary><br>
   Voici la liste des différents langages et outils que j’utilise dans mes projets :<br><br>
   <ul>
   <li>&nbsp; <b>Langages :</b>
