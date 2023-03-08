@@ -113,7 +113,7 @@ Des images de la calculatrice sont disponibles [ici](https://github.com/sacha-sz
   
   ![Sacha’s github stats](https://github-readme-stats.vercel.app/api?username=sacha-sz&show_icons=true&theme=transparent&custom_title=Statistiques%20Github&card_width=500)
 
-  ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=450&hide=javascript,jupyter%20notebook)
+  ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,jupyter%20notebook)
 </div>
 
 ---
