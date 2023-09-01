@@ -4,16 +4,18 @@
 
 :technologist: <b>A propos de moi :</b></summary><br>
 
-Je suis un étudiant de l'Université de Technologie de Compiègne, en 3ᵉ année.
+Je suis un étudiant de l'Université de Technologie de Compiègne, en 4ᵉ année.
 Je suis passionné par la programmation, et j’ai décidé de créer ce compte pour partager mes projets et mes connaissances.
 
 Les langages que j’ai le plus utilisés sont le C, le C++ et Python.
 J’ai eu l’occasion d’utiliser les modules python suivants :
 - Numpy
+- Django
 - Matplotlib
 - Pandas
-- Django
 - Tkinter
+- Scikit-Learn
+- Seaborn
 ---
 
 
