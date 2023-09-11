@@ -101,12 +101,12 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 ---
 
 :notebook_with_decorative_cover: <b>Projets :</b></summary><br>
+[![IA02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-IA02)](https://github.com/sacha-sz/UTC-IA02)
+[![INF2](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-INF2)](https://github.com/sacha-sz/UTC-INF2)
+[![LO21](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-LO21)](https://github.com/sacha-sz/UTC-LO21)
+[![NF16](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-NF16)](https://github.com/sacha-sz/UTC-NF16)
+[![SY02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-SY02)](https://github.com/sacha-sz/UTC-SY02)
 
-1. Premier site web, en django, pour le cours d’INF2, vous pouvez le retrouver [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP6). Il correspond au TP6 du cours.
-2. Second site web, en HTML, CSS et PHP, pour le cours de NF92, vous pouvez le retrouver [ici](https://github.com/sacha-sz/UTC-NF92/).
-3. Une calculatrice assez avancée, en python, pour le cours d’INF2, vous pouvez la retrouver [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP5) il correspond au TP5 du cours. 
-J’ai choisi d’ajouter des fonctionnalités supplémentaires et des gestions d’erreurs pour rendre le projet plus réaliste.
-Des images de la calculatrice sont disponibles [ici](https://github.com/sacha-sz/UTC-INF2/tree/main/TP/TP5/Images).
 ---
 
 
