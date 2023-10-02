@@ -134,4 +134,8 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
   ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite) <br>
 </div>
 
-![GIF snake](https://github.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
