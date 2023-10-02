@@ -129,7 +129,7 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 ---
 <div align="center">
   
-  Jokes from : [readme-jokes](https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file)
+  Jokes from : [readme-jokes](https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file) <br>
   ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite) <br>
 </div>
 
