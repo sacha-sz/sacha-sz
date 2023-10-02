@@ -118,6 +118,8 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 
 :chart_with_upwards_trend: <b>Mes statistiques :</b></summary><br>
 <div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sacha-sz&theme=transparent&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
   
   ![Sacha’s github stats](https://github-readme-stats.vercel.app/api?username=sacha-sz&show_icons=true&theme=transparent&custom_title=Statistiques%20Github&card_width=500)
 
