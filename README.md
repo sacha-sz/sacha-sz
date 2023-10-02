@@ -2,7 +2,8 @@
 ---
 
 
-:technologist: <b>A propos de moi :</b></summary><br>
+<details>
+  <summary>:technologist: <b>A propos de moi :</b></summary><br>
 
 Je suis un étudiant de l'Université de Technologie de Compiègne, en 4ᵉ année.
 Je suis passionné par la programmation, et j’ai décidé de créer ce compte pour partager mes projets et mes connaissances.
@@ -17,12 +18,12 @@ J’ai eu l’occasion d’utiliser les modules python suivants :
 - Scikit-Learn
 - Seaborn
 ---
+</details>
 
-
-:hammer_and_wrench: <b>Langages et outils :</b></summary><br>
+<details>
+  <summary>:hammer_and_wrench: <b>Langages et outils :</b></summary><br>
 Voici la liste des différents langages et outils que j’utilise dans mes projets :<br><br>
 <ul>
-  
   
   <li>&nbsp; <b>Langages :</b>
   
@@ -98,15 +99,15 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>
   </li>
 
-    
-  </li>
-    
-    
+  </li>    
 </ul>
 
 ---
+</details>
 
-:notebook_with_decorative_cover: <b>Projets :</b></summary><br>
+<details>
+  <summary>:notebook_with_decorative_cover: <b>Projets :</b></summary><br>
+  
 [![IA02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-IA02)](https://github.com/sacha-sz/UTC-IA02)
 [![INF2](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-INF2)](https://github.com/sacha-sz/UTC-INF2)
 [![LO21](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-LO21)](https://github.com/sacha-sz/UTC-LO21)
@@ -114,9 +115,10 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 [![SY02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-SY02)](https://github.com/sacha-sz/UTC-SY02)
 
 ---
+</details>
 
-
-:chart_with_upwards_trend: <b>Mes statistiques :</b></summary><br>
+<details>
+  <summary>:chart_with_upwards_trend: <b>Mes statistiques :</b></summary><br>
 <div align="center">
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=sacha-sz&theme=transparent&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
@@ -125,8 +127,11 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 
   ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,jupyter%20notebook)
 
-
 ---
+</details>
+
+<details>
+  <summary>::shipit: <b>Bonus :</b></summary><br>
 <div align="center">
   
   Jokes from : [readme-jokes](https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file) <br>
@@ -135,7 +140,10 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+</details>
