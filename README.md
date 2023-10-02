@@ -124,8 +124,13 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
   ![Sacha’s github stats](https://github-readme-stats.vercel.app/api?username=sacha-sz&show_icons=true&theme=transparent&custom_title=Statistiques%20Github&card_width=500)
 
   ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,jupyter%20notebook)
-</div>
+
 
 ---
+<div align="center">
+  
+  Jokes from : [readme-jokes](https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite) <br>
+</div>
 
 ![GIF snake](https://github.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake.svg)
