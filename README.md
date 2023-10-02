@@ -139,11 +139,11 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
   ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite) <br>
 </div>
 
+---
+</details>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sacha-sz/sacha-sz/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-</details>
