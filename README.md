@@ -1,4 +1,4 @@
-<img src="https://github.com/sacha-sz/sacha-sz/blob/main/name.svg" title="Name" alt="sacha-sz"/>&nbsp;
+<img src="https://github.com/sacha-sz/sacha-sz/blob/main/name.svg" title="Sacha-sz" alt="sacha-sz"/>&nbsp;
 ---
 
 
