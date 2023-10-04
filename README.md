@@ -106,7 +106,7 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 </details>
 
 <details>
-  <summary>:notebook_with_decorative_cover: <b>Projets :</b></summary><br>
+<summary>:notebook_with_decorative_cover: <b>Projets :</b></summary><br>
   
 [![IA02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-IA02)](https://github.com/sacha-sz/UTC-IA02)
 [![INF2](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-INF2)](https://github.com/sacha-sz/UTC-INF2)
@@ -125,7 +125,7 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
   
   ![Sacha’s github stats](https://github-readme-stats.vercel.app/api?username=sacha-sz&show_icons=true&theme=transparent&custom_title=Statistiques%20Github&card_width=500)
 
-  ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,jupyter%20notebook)
+  ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=20)
 
 ---
 </details>
