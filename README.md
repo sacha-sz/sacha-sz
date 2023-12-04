@@ -131,7 +131,7 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 </details>
 
 <details>
-  <summary>::shipit: <b>Bonus :</b></summary><br>
+  <summary>:shipit: <b>Bonus :</b></summary><br>
 <div align="center">
   
   Jokes from : [readme-jokes](https://github.com/ABSphreak/readme-jokes?tab=readme-ov-file) <br>
