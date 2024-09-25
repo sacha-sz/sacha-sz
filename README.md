@@ -108,10 +108,10 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 <details>
 <summary>:notebook_with_decorative_cover: <b>Projets :</b></summary><br>
   
-[![IA02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-IA02)](https://github.com/sacha-sz/UTC-IA02)
+[![IA02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=IA02-Projet)](https://github.com/sacha-sz/IA02-Projet)
 [![INF2](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-INF2)](https://github.com/sacha-sz/UTC-INF2)
 [![LO21](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-LO21)](https://github.com/sacha-sz/UTC-LO21)
-[![NF16](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-NF16)](https://github.com/sacha-sz/UTC-NF16)
+[![NF16](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-SY09)](https://github.com/sacha-sz/UTC-SY09)
 [![SY02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-SY02)](https://github.com/sacha-sz/UTC-SY02)
 
 ---
