@@ -5,7 +5,7 @@
 <details>
   <summary>:technologist: <b>A propos de moi :</b></summary><br>
 
-Je suis un étudiant de l'Université de Technologie de Compiègne, en 4ᵉ année.
+Je suis un étudiant de l'Université de Technologie de Compiègne, en 5ᵉ année.
 Je suis passionné par la programmation, et j’ai décidé de créer ce compte pour partager mes projets et mes connaissances.
 
 Les langages que j’ai le plus utilisés sont le C, le C++ et Python.
