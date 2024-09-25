@@ -111,7 +111,7 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 [![IA02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=IA02-Projet)](https://github.com/sacha-sz/IA02-Projet)
 [![INF2](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-INF2)](https://github.com/sacha-sz/UTC-INF2)
 [![LO21](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-LO21)](https://github.com/sacha-sz/UTC-LO21)
-[![NF16](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-SY09)](https://github.com/sacha-sz/UTC-SY09)
+[![NF16](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=SY09-Projet)](https://github.com/sacha-sz/SY09-Projet)
 [![SY02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-SY02)](https://github.com/sacha-sz/UTC-SY02)
 
 ---
