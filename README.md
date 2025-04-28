@@ -1,28 +1,20 @@
 <img src="https://github.com/sacha-sz/sacha-sz/blob/main/name.svg" title="Sacha-sz" alt="sacha-sz"/>&nbsp;
 ---
 
+Salut ! Je suis un étudiant en 5ᵉ année :
+- :mortar_board: **Université de Technologie de Compiègne** (UTC)  
+- :round_pushpin: **Spécialisation** : Informatique, Intelligence Artificielle (IA)  
+- :microscope: **Passion** : IA appliquée à la santé et au médical
 
-<details>
-  <summary>:technologist: <b>A propos de moi :</b></summary><br>
+Je suis passionné par la **programmation** et l'**intelligence artificielle**. J’ai créé ce compte pour partager mes projets, mes connaissances et approfondir mes compétences techniques dans le domaine de l’IA, notamment dans l’application au secteur médical.  
+Je me suis formé sur plusieurs technologies en **C**, **C++**, et **Python**, et j’ai eu l’opportunité de travailler avec les **bibliothèques Python** suivantes :
 
-Je suis un étudiant de l'Université de Technologie de Compiègne, en 5ᵉ année.
-Je suis passionné par la programmation, et j’ai décidé de créer ce compte pour partager mes projets et mes connaissances.
+- :star2: **PyTorch** & **Scikit-learn** : Deep Learning & Machine Learning
+- :bar_chart: **Pandas** & **Numpy** : Manipulation de données & calcul scientifique
+- :chart_with_upwards_trend: **Matplotlib** & **Seaborn** : Visualisation de données
 
-Les langages que j’ai le plus utilisés sont le C, le C++ et Python.
-J’ai eu l’occasion d’utiliser les modules python suivants :
-- Pytorch
-- Scikit-Learn
-- Seaborn
-- Pandas
-- Numpy
-- Matplotlib 
 
 ---
-</details>
-
-<details>
-  <summary>:hammer_and_wrench: <b>Langages et outils :</b></summary><br>
-Voici la liste des différents langages et outils que j’utilise dans mes projets :<br><br>
 <ul>
   
   <li>&nbsp; <b>Langages :</b>
@@ -94,10 +86,6 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 
 
 ---
-</details>
-
-<details>
-<summary>:notebook_with_decorative_cover: <b>Projets :</b></summary><br>
   
 [![DL from scratch for MNIST](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=MNIST-Scratch)](https://github.com/sacha-sz/MNIST-Scratch)
 [![UTC-TX-RL](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-TX-RL)](https://github.com/sacha-sz/UTC-TX-RL)
@@ -106,17 +94,17 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 [![UTC_NF26](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-NF26)](https://github.com/sacha-sz/UTC-NF26)
 
 ---
-</details>
 
 <details>
   <summary>:chart_with_upwards_trend: <b>Mes statistiques :</b></summary><br>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="https://streak-stats.demolab.com?user=sacha-sz&theme=transparent&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=sacha-sz&show_icons=true&theme=transparent&custom_title=Statistiques%20Github&card_width=500" alt="Sacha github stats">
+</div>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,HTML&size_weight=0.5&count_weight=0.5&langs_count=20" alt="Sacha languages">
+</div>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sacha-sz&theme=transparent&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
-  
-  ![Sacha’s github stats](https://github-readme-stats.vercel.app/api?username=sacha-sz&show_icons=true&theme=transparent&custom_title=Statistiques%20Github&card_width=500)
-
-  ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,HTML&size_weight=0.5&count_weight=0.5&langs_count=20)
 
 ---
 </details>
