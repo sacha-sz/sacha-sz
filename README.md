@@ -10,13 +10,13 @@ Je suis passionné par la programmation, et j’ai décidé de créer ce compte 
 
 Les langages que j’ai le plus utilisés sont le C, le C++ et Python.
 J’ai eu l’occasion d’utiliser les modules python suivants :
-- Numpy
-- Django
-- Matplotlib
-- Pandas
-- Tkinter
+- Pytorch
 - Scikit-Learn
 - Seaborn
+- Pandas
+- Numpy
+- Matplotlib 
+
 ---
 </details>
 
@@ -29,78 +29,69 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
   
   <ul>
   <li>
-  Web :<br>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-
+  Programmation / Data Science :<br>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   </li>
 
   <li>
-  Bases de données :<br>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40"/>&nbsp;
+  Bases de données / Big Data :<br>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Apache Spark" width="40" height="40"/>&nbsp;
   </li>
 
   <li>
-  Programmation :<br>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  Deep Learning / Machine Learning :<br>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
   </li>
 
   <li>
-  Librairies :<br>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
+  Visualisation & Analyse de données :<br>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   </li>
   </ul>
 
-    
   <li>&nbsp; <b>Outils :</b>
     
   <ul>
   <li>
   IDEs / Éditeurs : <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio" alt="Rstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
   </li>
 
   <li>
-  Librairies : <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="QT"  alt="QT" width="40" height="40"/>&nbsp;
+  Librairies / Frameworks : <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
   </li>
-
 
   <li>
   Gestion de projet / de versions :<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
   </li>
 
   <li>
-  Formatage de texte :<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>
+  Documentation scientifique :<br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>
   </li>
 
-  </li>    
+  </ul>    
 </ul>
+
 
 ---
 </details>
@@ -108,11 +99,11 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
 <details>
 <summary>:notebook_with_decorative_cover: <b>Projets :</b></summary><br>
   
-[![IA02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=IA02-Projet)](https://github.com/sacha-sz/IA02-Projet)
-[![INF2](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-NF26)](https://github.com/sacha-sz/UTC-NF26)
-[![LO21](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-TX-RL)](https://github.com/sacha-sz/UTC-TX-RL)
-[![NF16](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=SY09-Projet)](https://github.com/sacha-sz/SY09-Projet)
-[![SY02](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-SY02)](https://github.com/sacha-sz/UTC-SY02)
+[![DL from scratch for MNIST](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=MNIST-Scratch)](https://github.com/sacha-sz/MNIST-Scratch)
+[![UTC-TX-RL](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-TX-RL)](https://github.com/sacha-sz/UTC-TX-RL)
+[![SY09](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=SY09-Projet)](https://github.com/sacha-sz/SY09-Projet)
+[![UTC_SY32](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-SY32)](https://github.com/sacha-sz/UTC-SY32)
+[![UTC_NF26](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-NF26)](https://github.com/sacha-sz/UTC-NF26)
 
 ---
 </details>
@@ -125,7 +116,7 @@ Voici la liste des différents langages et outils que j’utilise dans mes proje
   
   ![Sacha’s github stats](https://github-readme-stats.vercel.app/api?username=sacha-sz&show_icons=true&theme=transparent&custom_title=Statistiques%20Github&card_width=500)
 
-  ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=20)
+  ![Sacha’s languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,HTML&size_weight=0.5&count_weight=0.5&langs_count=20)
 
 ---
 </details>
