@@ -97,8 +97,7 @@ Je me suis formé sur plusieurs technologies en **C**, **C++**, et **Python**, e
 
 <details>
   <summary>:chart_with_upwards_trend: <b>Mes statistiques :</b></summary><br>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="https://streak-stats.demolab.com?user=sacha-sz&theme=transparent&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="GitHub Streak">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sacha-sz&show_icons=true&theme=transparent&custom_title=Statistiques%20Github&card_width=500" alt="Sacha github stats">
 </div>
 <div align="center">
