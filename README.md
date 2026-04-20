@@ -115,7 +115,7 @@ Salut ! Je suis **Data Scientist** passionné par l'**Intelligence Artificielle*
     <img src="https://github-readme-stats.vercel.app/api?username=sacha-sz&show_icons=true&theme=transparent&custom_title=Statistiques%20Github&card_width=500" 
          alt="Sacha github stats">
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,HTML&size_weight=0.5&count_weight=0.5&langs_count=20" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,HTML,EJS,jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=10" 
          alt="Sacha languages">
   </div>
 
