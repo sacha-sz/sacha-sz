@@ -11,15 +11,12 @@ Salut ! Je suis **Data Scientist** passionné par l'**Intelligence Artificielle*
 | :round_pushpin: Spécialisation | Informatique & Intelligence Artificielle |
 | Localisation | France |
 
-
----
-
 ## 🚀 Ce que je fais
 
-- 🧠 **Machine Learning & Deep Learning** — Conception et entraînement de modèles d'IA
-- 🏥 **IA médicale** — Application de l'apprentissage automatique aux données de santé
-- 📊 **Data Science** — Analyse, visualisation et exploitation de données complexes
-- 💻 **Développement** — Python, C, C++ pour des solutions performantes
+- 🧠 **Machine Learning & Deep Learning** : Conception et entraînement de modèles d'IA
+- 🏥 **IA médicale** : Application de l'apprentissage automatique aux données de santé
+- 📊 **Data Science** : Analyse, visualisation et exploitation de données complexes
+- 💻 **Développement** : Python, C, C++ 
 
 ---
 
@@ -43,29 +40,27 @@ Salut ! Je suis **Data Scientist** passionné par l'**Intelligence Artificielle*
          title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
          title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" 
          title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" 
          title="Apache Spark" alt="Apache Spark" width="40" height="40"/>&nbsp;
     </li>
     <li>
     Deep Learning / Machine Learning :<br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" 
          title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" 
          title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
     </li>
     <li>
     Visualisation & Analyse de données :<br>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" 
-         title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" 
-         title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" 
-         title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
-         title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly Dash" alt="Plotly Dash" width="40" height="40"/>&nbsp;
     </li>
+
   </ul>
 
   <li>&nbsp; <b>Outils :</b>
@@ -80,15 +75,6 @@ Salut ! Je suis **Data Scientist** passionné par l'**Intelligence Artificielle*
          title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" 
          title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
-    </li>
-    <li>
-    Librairies / Frameworks :<br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" 
-         title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
-         title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" 
-         title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
     </li>
     <li>
     Gestion de projet / de versions :<br>
@@ -123,17 +109,6 @@ Salut ! Je suis **Data Scientist** passionné par l'**Intelligence Artificielle*
 
 ---
 
-## 📬 Me contacter
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachz-sz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sacha-sz)
-
-</div>
-
----
-
 <details>
   <summary>📈 <b>Mes statistiques GitHub :</b></summary><br>
   <div align="center">
@@ -143,12 +118,13 @@ Salut ! Je suis **Data Scientist** passionné par l'**Intelligence Artificielle*
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacha-sz&layout=compact&theme=transparent&custom_title=Langages%20les%20plus%20utilisés&card_width=500&hide=javascript,HTML&size_weight=0.5&count_weight=0.5&langs_count=20" 
          alt="Sacha languages">
   </div>
-</details>
 
 ---
+</details>
+
 
 <details>
-  <summary>🎲 <b>Bonus — Une blague pour la route :</b></summary><br>
+  <summary>🎲 <b>Bonus :</b></summary><br>
   <div align="center">
 
   *Powered by [readme-jokes](https://github.com/ABSphreak/readme-jokes)*
@@ -158,7 +134,6 @@ Salut ! Je suis **Data Scientist** passionné par l'**Intelligence Artificielle*
   </div>
 </details>
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
