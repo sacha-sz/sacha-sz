@@ -103,9 +103,9 @@ Salut ! Je suis **Data Scientist** passionné par l'**Intelligence Artificielle*
 
 [![DL from scratch for MNIST](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=MNIST-Scratch)](https://github.com/sacha-sz/MNIST-Scratch)
 [![UTC-TX-RL](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-TX-RL)](https://github.com/sacha-sz/UTC-TX-RL)
-[![SY09](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=SY09-Projet)](https://github.com/sacha-sz/SY09-Projet)
-[![UTC_SY32](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-SY32)](https://github.com/sacha-sz/UTC-SY32)
-[![UTC_NF26](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=UTC-NF26)](https://github.com/sacha-sz/UTC-NF26)
+[![Medical_Data_Analysis](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=Medical_Data_Analysis)](https://github.com/sacha-sz/Medical_Data_Analysis)
+[![Computer_Vision-Traffic_Signs](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=Computer_Vision-Traffic_Signs)](https://github.com/sacha-sz/Computer_Vision-Traffic_Signs)
+[![Hospital-Big_Data](https://github-readme-stats.vercel.app/api/pin/?username=sacha-sz&theme=transparent&repo=Hospital-Big_Data)](https://github.com/sacha-sz/Hospital-Big_Data)
 
 ---
 
